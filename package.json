@@ -15,9 +15,9 @@
   "author": "Osama AbuReesh - Osama Technology",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aux-sam/talent-management-t1/issues"
+    "url": "https://github.com//OsamaAbuReesh/Talent-Mangement/issues"
   },
-  "homepage": "https://github.com/aux-sam/talent-management-t1#readme",
+  "homepage": "https://github.com//OsamaAbuReesh/Talent-Mangement#readme",
   "dependencies": {
     "@mui/base": "^5.0.0-alpha.127",
     "axios": "^1.3.4",
